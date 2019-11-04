@@ -8,7 +8,7 @@ public class Main {
         System.out.println(Prod.prod(a,b));
         System.out.println(Sum.sum(a,b));
         System.out.println(Cit.cit(a,b));
-        RecursiveFibonaci.printFibonacci(10 - 2);
+        RecursiveFibonaci.printFibonacci(count );
         System.out.println();
 
 // to do fibonaci , implement into a method
